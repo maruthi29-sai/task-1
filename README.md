@@ -13,3 +13,8 @@
 **MENTOR NAME**: NEELA SANTHOSH
 
 # ENTER DESCRIPTON OF TASK PERFORMED NOT LESS THAN 500 WORDS
+
+# output of the task 1 
+
+[import java.io.;.txt](https://github.com/user-attachments/files/18307962/import.java.io.txt)
+
